@@ -1,0 +1,9 @@
+Inicio
+    Escribe "numero que quiere saber"
+    Lee X
+    Para i desde 2 hasta X
+    Si X / i == 1 y de resto 0
+        Escribe " es primo "
+    Si no 
+        no es primo
+Fin

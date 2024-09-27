@@ -1,0 +1,8 @@
+Inicio
+    Escribe "Número a saber"
+    Lee X
+    Si X % 2 == 0 
+        Escribe "El numero " + x + "es par."
+    Si no 
+        es impar
+Fin
