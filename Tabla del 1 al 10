@@ -1,0 +1,7 @@
+Inicio
+    Escribe "Número del que quiere saber la tabla"
+    Lee X
+    Para i desde 1 hasta 10
+    resultado = X * i 
+    Escribir X " * ", i " = " resultado 
+Fin
